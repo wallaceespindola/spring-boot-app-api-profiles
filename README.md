@@ -19,4 +19,4 @@ Spring boot app api using application profiles dev and test in the application.y
 ## License
 
 - This project is released under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
-- Copyright © 2020 [Wallace Espindola](https://github.com/wallaceespindola/).
+- Copyright © 2021 [Wallace Espindola](https://github.com/wallaceespindola/).
