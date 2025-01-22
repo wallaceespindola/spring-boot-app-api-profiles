@@ -2,7 +2,7 @@
 
 ![Apache 2.0 License](https://img.shields.io/badge/License-Apache2.0-orange)
 ![Java](https://img.shields.io/badge/Built_with-Java-blue)
-![Spring](https://img.shields.io/badge/Powered_by-Spring-green)
+![SpringBoot](https://img.shields.io/badge/Powered_by-SpringBoot-green)
 ![Maven](https://img.shields.io/badge/Powered_by-Maven-purple)
 
 
