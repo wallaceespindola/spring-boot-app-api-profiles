@@ -1,5 +1,5 @@
 
-![Spring](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1200px-Spring_Framework_Logo_2018.svg.png)
+![SpringBoot](https://alex-bezverkhniy.github.io/images/spring-boot/spring-boot-logo.png)
 
 # Spring Boot App - API Profiles
 
